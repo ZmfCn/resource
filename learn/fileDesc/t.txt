@@ -1,0 +1,6 @@
+b.txt
+descriptor.sh
+quiet.sh
+standard.sh
+s.txt
+t.txt
